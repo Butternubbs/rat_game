@@ -1,0 +1,2 @@
+import minecraft
+minecraft.run()
